@@ -1,0 +1,11 @@
+Model Information:
+* title:	tank
+* source:	https://sketchfab.com/3d-models/tank-013f357aabb146c282a15b1b046be616
+* author:	a.pimm88 (https://sketchfab.com/a.pimm88)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "tank" (https://sketchfab.com/3d-models/tank-013f357aabb146c282a15b1b046be616) by a.pimm88 (https://sketchfab.com/a.pimm88) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
